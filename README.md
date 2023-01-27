@@ -1,16 +1,14 @@
-# pasarlistaqr
+# Pasar Lista Mediante QR
 
 Proyecto para pasar lista en un salón de clases mediante la lectura de código QR donde los alumnos muestran sus códigos que se asocian a su matrícula.
 
-## Getting Started
+## Objetivo General
 
-This project is a starting point for a Flutter application.
+Evaluar las diferentes formas de pasar lista en un salón de clases
 
-A few resources to get you started if this is your first Flutter project:
+## Objetivos especificos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Evaluar el tiempo de ejecución en diferentes escenarios
+2. Valorar la experiencia de usuario del profesor y los alumnos
+3. Determinar los valores de error para cada herramienta implementada
+4. Concluir que herramienta es la mejor para el pase de lista
